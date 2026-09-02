@@ -1,0 +1,15 @@
+{
+  "name": "Kurtlar Vadisi",
+  "variables": {
+    "--bg": "#1c1620",
+    "--bg-elev": "#2a2130",
+    "--bg-player": "#65879A",
+    "--surface": "#3a2c44",
+    "--text": "#ffffff",
+    "--text-dim": "#83B9D8",
+    "--accent": "#96A7B3",
+    "--accent-2": "#45545F",
+    "--border": "#662c66",
+    "--gradient": "linear-gradient(135deg, #65879A, #B8C8D1)"
+  }
+}
