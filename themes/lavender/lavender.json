@@ -1,0 +1,16 @@
+{
+  "name": "Lavanta",
+  "variables": {
+    "--bg": "#12101a",
+    "--bg-image": "none",
+    "--bg-elev": "#1c1830",
+    "--bg-player": "#171326",
+    "--surface": "#2a2342",
+    "--text": "#f0eaff",
+    "--text-dim": "#b0a0d0",
+    "--accent": "#a78bfa",
+    "--accent-2": "#5b4a8a",
+    "--border": "#2a2342",
+    "--gradient": "linear-gradient(135deg, #a78bfa, #e879f9)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Monokrom",
+  "variables": {
+    "--bg": "#0a0a0a",
+    "--bg-image": "none",
+    "--bg-elev": "#171717",
+    "--bg-player": "#111111",
+    "--surface": "#262626",
+    "--text": "#f5f5f5",
+    "--text-dim": "#a3a3a3",
+    "--accent": "#e5e5e5",
+    "--accent-2": "#525252",
+    "--border": "#262626",
+    "--gradient": "linear-gradient(135deg, #f5f5f5, #737373)"
+  }
+}

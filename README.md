@@ -1,27 +1,27 @@
-# Musiverse 🎵
+# Musiverse
 
-> Modern PWA müzik oynatıcısı (Mobil öncelikli dikey arayüz).
+Modern PWA müzik oynatıcısı. Dikey (mobil öncelikli) arayüz.
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+## Özellikler
+- Şarkı ekleme (cihazdan, IndexedDB ile saklanır)
+- Oynat / Durdur, Önceki / Sonraki, Karıştır, Tekrar, Ses ve ilerleme çubuğu
+- Medya Oturumu (Media Session) desteği
+- PWA: Android & iOS'ta ana ekrana kurulabilir, offline çalışır
 
-**Musiverse**, YouTube Data API altyapısını kullanan ve aynı zamanda cihazında yerel müzik saklamanı sağlayan açık kaynaklı modern bir web müzik oynatıcı projesidir[cite: 1].
+## Yerelde çalıştır
+```bash
+python -m http.server 8080
+# veya
+npx serve .
+```
+Tarayıcıda `http://localhost:8080` aç.
 
----
+## Netlify'a dağıt
+1. Repoyu GitHub'a push et.
+2. Netlify'da **New site from Git** ile repo seç.
+3. Build command boş, publish directory `site` (veya kök). Otomatik değişikliklerde deploy edilir.
 
-## ✨ Özellikler
+Doğrudan sürükle-bırak: Netlify "Deploys" → drag & drop klasörü bırak.
 
-* **YouTube Entegrasyonu:** YouTube Data API anahtarınız ile arama yapın ve müziklerin keyfini çıkarın[cite: 1].
-* **Yerel Depolama:** Şarkıları cihazınızdan ekleyin, IndexedDB ile güvenle saklayın.
-* **Zengin Oynatıcı Kontrolleri:** Oynat / Durdur, Önceki / Sonraki, Karıştır (Shuffle), Tekrar (Loop), ses ve hassas ilerleme çubuğu.
-* **Medya Oturumu (Media Session):** Kilit ekranından veya bildirim panelinden medya kontrol desteği.
-* **PWA Desteği:** PWA olarak kurulabilir. *(Not: Arka plan kısıtlamaları nedeniyle şu an için optimize deneyim ağırlıklı olarak Android cihazlarda tam verimli çalışmaktadır; iOS tarafında tarayıcı arka plan kısıtlamaları bulunabilmektedir.)*
-
----
-
-## ⚙️ Kurulum ve Yapılandırma
-
-Projeyi yerelinizde çalıştırmak için kendi YouTube API anahtarınızı tanımlamanız gerekmektedir[cite: 1]:
-
-1. Repoyu klonlayın:
-   ```bash
-   git clone [https://github.com/TheMami64/musiverse.git](https://github.com/TheMami64/musiverse.git)
+## İkonlar
+`icons/` klasöründe 192 ve 512px PNG bulunur. Yerleşik ikonları beğenmezsen kendin üretip aynı isimle değiştir.

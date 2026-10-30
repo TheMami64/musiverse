@@ -1,0 +1,16 @@
+{
+  "name": "Okyanus",
+  "variables": {
+    "--bg": "#051418",
+    "--bg-image": "none",
+    "--bg-elev": "#0a2229",
+    "--bg-player": "#071b20",
+    "--surface": "#123039",
+    "--text": "#dffbff",
+    "--text-dim": "#86b8c4",
+    "--accent": "#22d3ee",
+    "--accent-2": "#0e7490",
+    "--border": "#123039",
+    "--gradient": "linear-gradient(135deg, #22d3ee, #0ea5e9)"
+  }
+}

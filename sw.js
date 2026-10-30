@@ -1,4 +1,4 @@
-const CACHE = "musiverse-v104";
+const CACHE = "musiverse-v118";
 const ASSETS = [
   "./",
   "./index.html",

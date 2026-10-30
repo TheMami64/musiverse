@@ -1,0 +1,16 @@
+{
+  "name": "Cyberpunk",
+  "variables": {
+    "--bg": "#0a0a12",
+    "--bg-image": "none",
+    "--bg-elev": "#14141f",
+    "--bg-player": "#0e0e18",
+    "--surface": "#1e1e2e",
+    "--text": "#f0f0ff",
+    "--text-dim": "#a0a0c0",
+    "--accent": "#ff2e88",
+    "--accent-2": "#00e5ff",
+    "--border": "#2a2a40",
+    "--gradient": "linear-gradient(135deg, #ff2e88, #00e5ff)"
+  }
+}
