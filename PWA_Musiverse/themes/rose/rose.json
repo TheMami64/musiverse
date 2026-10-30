@@ -1,0 +1,16 @@
+{
+  "name": "Gül",
+  "variables": {
+    "--bg": "#180a10",
+    "--bg-image": "none",
+    "--bg-elev": "#25111a",
+    "--bg-player": "#1e0d15",
+    "--surface": "#3a1a28",
+    "--text": "#ffe4ec",
+    "--text-dim": "#d09aab",
+    "--accent": "#fb7185",
+    "--accent-2": "#7a2438",
+    "--border": "#3a1a28",
+    "--gradient": "linear-gradient(135deg, #fb7185, #f472b6)"
+  }
+}

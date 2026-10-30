@@ -1,0 +1,16 @@
+{
+  "name": "Kahve",
+  "variables": {
+    "--bg": "#1a120c",
+    "--bg-image": "none",
+    "--bg-elev": "#241a12",
+    "--bg-player": "#1e140e",
+    "--surface": "#33261a",
+    "--text": "#f0e2d0",
+    "--text-dim": "#b99a7a",
+    "--accent": "#d4a373",
+    "--accent-2": "#6b4a2f",
+    "--border": "#33261a",
+    "--gradient": "linear-gradient(135deg, #d4a373, #8b5a2b)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Orman",
+  "variables": {
+    "--bg": "#071310",
+    "--bg-image": "none",
+    "--bg-elev": "#0f1f1a",
+    "--bg-player": "#0b1815",
+    "--surface": "#1a2f28",
+    "--text": "#e3f5e9",
+    "--text-dim": "#93b8a5",
+    "--accent": "#34d399",
+    "--accent-2": "#1f5c46",
+    "--border": "#1a2f28",
+    "--gradient": "linear-gradient(135deg, #34d399, #a3e635)"
+  }
+}

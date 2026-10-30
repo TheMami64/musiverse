@@ -1,0 +1,16 @@
+{
+  "name": "White Theme",
+  "variables": {
+    "--bg": "#ffffff",
+    "--bg-image": "none",
+    "--bg-elev": "#f5f5f7",
+    "--bg-player": "#fafafa",
+    "--surface": "#e8e8ec",
+    "--text": "#1c1c1e",
+    "--text-dim": "#8e8e93",
+    "--accent": "#ff9500",
+    "--accent-2": "#d1d1d6",
+    "--border": "#e8e8ec",
+    "--gradient": "linear-gradient(135deg, #ff9500, #ffcc00)"
+  }
+}
